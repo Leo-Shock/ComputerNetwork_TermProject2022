@@ -11,7 +11,7 @@ Chatting Program using JAVA socket programming.
 * ServerLaunch 먼저 실행 후 ClientLaunch 실행
 * 이미지, 데이터베이스 연동 부분 경로 바꾸기
 
-Reference code URL : 
+Reference code URL : https://song-yujin.tistory.com/m/7?category=815435
 <br>
-Presentation YouTube URL : 
+Presentation YouTube URL : https://www.youtube.com/watch?v=CZpgbt9pB3c
 <br>
